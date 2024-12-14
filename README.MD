@@ -24,7 +24,7 @@ Cada página dedicada a um dos filmes apresenta:
 
 ### Novas Adições
 - **Quizzes interativos:** Agora, cada página de detalhes contém um botão que leva a um quiz interativo. Os quizzes são projetados para testar os conhecimentos dos fãs sobre cada versão do Homem-Aranha, proporcionando um elemento lúdico e educacional ao projeto.
-- **Página extra dedicada ao Andrew Garfield:** Para destacar ainda mais sua contribuição como o Homem-Aranha, foi adicionada uma página exclusiva com curiosidades sobre sua interpretação e detalhes adicionais de seus filmes.
+- **Página extra dedicada ao Andrew Garfield:** Para destacar ainda mais sua contribuição como o Homem-Aranha, foi adicionada uma página exclusiva para homenagear este que pra mim é o melhor homen aranha, vou deixar creditos ao Cérebro Espacial, pois o video dele é uma otima homenagem e compactuo com tudo de bom que ele falou sobre o filme e o ator.
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido com as seguintes tecnologias:
